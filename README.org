@@ -1,0 +1,5 @@
+A quick haskell port of cunger's block-stack C project.
+
+It can be found over here
+
+https://github.com/cunger/escape-velocity/tree/master/MITx-2.086x
